@@ -1,0 +1,4 @@
+{
+  "name": "EventFlow - Optimized Booking",
+  "description": "A high-performance event booking dashboard demonstrating React's useCallback and React.memo patterns for preventing unnecessary re-renders."
+}
